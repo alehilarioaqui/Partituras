@@ -1,2 +1,2 @@
 # Partituras
-Partituras para Piano, Teclado e outras - PD, Midi
+Partituras para Piano, Teclado e outras - PDF, Midi
